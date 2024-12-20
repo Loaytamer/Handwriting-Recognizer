@@ -51,8 +51,8 @@ The project includes a web-based interface to interact with the recognition syst
 ---
 ## Results
 <img src="screenshots/model_accuracy.png" alt="Sample Input" width="400" height="300">
----
 
+---
 ## Applications
 
 This model has versatile applications, including:
