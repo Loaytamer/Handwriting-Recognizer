@@ -3,13 +3,13 @@
 This project is focused on building a robust system for recognizing handwritten text using advanced machine learning techniques. The goal is to convert handwritten notes into digital text accurately and efficiently.
 
 ---
-
 ## Table of Contents
 
 - [Features](#features)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [UI Deployment](#ui-deployment)
+- [Results](#results)
 - [Applications](#applications)
 ---
 
@@ -44,9 +44,13 @@ The recognition system is based on a Convolutional Neural Network (CNN) combined
 
 The project includes a web-based interface to interact with the recognition system:
 
-![Alt text](path/to/image "Optional title")
-![Alt text](path/to/image "Optional title")
+<img src="screenshots/upload_loay_img.png" alt="Sample Input" width="400" height="300">
+<img src="screenshots/loay.png" alt="Sample Input" width="400" height="300">
 
+
+---
+## Results
+<img src="screenshots/model_accuracy.png" alt="Sample Input" width="400" height="300">
 ---
 
 ## Applications
